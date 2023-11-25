@@ -2,6 +2,8 @@
 
 Automate the process of solving captchas on the RGPV Student Login page effortlessly, without any user interaction.
 
+![Alt Text](./captcha_demo.gif)
+
 ## Installation
 1. **Prerequisites:** Ensure you have the [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) browser extension installed.
 
