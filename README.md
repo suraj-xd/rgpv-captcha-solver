@@ -12,7 +12,7 @@ Automate the process of solving captchas on the RGPV Student Login page effortle
    <img src="https://img.shields.io/badge/Install-Script-blue.svg" alt="Install Script">
    </a>
 
-3. **API Key:** API-NINJA provides a free API. Create an account on [API-NINJA](https://api-ninjas.com/), obtain your API key, and replace the placeholder in the script.
+**API Key: (Optional)** API-NINJA provides a free API. Create an account on [API-NINJA](https://api-ninjas.com/), obtain your API key, and replace the placeholder in the script.
 
 ## Links
 - GitHub Repository: [suraj-xd/rgpv-captcha-solver](https://github.com/suraj-xd/rgpv-captcha-solver)
